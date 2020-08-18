@@ -4,9 +4,8 @@
 .card-body {
   font-family: 'Noto Sans', sans-serif; }
 
-#card-container{
-  width: 100%;
-}
-
+footer {
+  display: block;
+  position: fixed; }
 
 /*# sourceMappingURL=style.css.map */
